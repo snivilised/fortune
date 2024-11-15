@@ -1,12 +1,12 @@
-# 🌟 honour: ___Go template for library modules___
+# 🌟 fortune: ___Go template for library modules___
 
 [![A B](https://img.shields.io/badge/branching-commonflow-informational?style=flat)](https://commonflow.org)
 [![A B](https://img.shields.io/badge/merge-rebase-informational?style=flat)](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
 [![A B](https://img.shields.io/badge/branch%20history-linear-blue?style=flat)](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule)
-[![Go Reference](https://pkg.go.dev/badge/github.com/snivilised/honour.svg)](https://pkg.go.dev/github.com/snivilised/honour)
-[![Go report](https://goreportcard.com/badge/github.com/snivilised/honour)](https://goreportcard.com/report/github.com/snivilised/honour)
-[![Coverage Status](https://coveralls.io/repos/github/snivilised/honour/badge.svg?branch=main)](https://coveralls.io/github/snivilised/honour?branch=main&kill_cache=1)
-[![Astrolib Continuous Integration](https://github.com/snivilised/honour/actions/workflows/ci-workflow.yml/badge.svg)](https://github.com/snivilised/honour/actions/workflows/ci-workflow.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/snivilised/fortune.svg)](https://pkg.go.dev/github.com/snivilised/fortune)
+[![Go report](https://goreportcard.com/badge/github.com/snivilised/fortune)](https://goreportcard.com/report/github.com/snivilised/fortune)
+[![Coverage Status](https://coveralls.io/repos/github/snivilised/fortune/badge.svg?branch=main)](https://coveralls.io/github/snivilised/fortune?branch=main&kill_cache=1)
+[![Astrolib Continuous Integration](https://github.com/snivilised/fortune/actions/workflows/ci-workflow.yml/badge.svg)](https://github.com/snivilised/fortune/actions/workflows/ci-workflow.yml)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 [![A B](https://img.shields.io/badge/commit-conventional-commits?style=flat)](https://www.conventionalcommits.org/)
 

@@ -1,4 +1,4 @@
-module github.com/snivilised/honour
+module github.com/snivilised/fortune
 
 go 1.23.0
 

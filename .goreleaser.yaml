@@ -5,7 +5,7 @@ before:
     # - go mod generate
 
 builds:
-  - id: "honour"
+  - id: "fortune"
     env:
       - CGO_ENABLED=0
     goos:

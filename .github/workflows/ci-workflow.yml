@@ -1,4 +1,4 @@
-name: Astrolib Continuous Integration
+name: Honour Continuous Integration
 
 on:
   push:

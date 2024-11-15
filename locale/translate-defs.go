@@ -2,10 +2,10 @@ package locale
 
 // CLIENT-TODO: Should be updated to use url of the implementing project,
 // so should not be left as astrolib. (this should be set by auto-check)
-const AstrolibSourceID = "github.com/snivilised/astrolib"
+const AstrolibSourceID = "github.com/snivilised/honour"
 
-type astrolibTemplData struct{}
+type honourTemplData struct{}
 
-func (td astrolibTemplData) SourceID() string {
+func (td honourTemplData) SourceID() string {
 	return AstrolibSourceID
 }

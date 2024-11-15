@@ -1,4 +1,4 @@
-package honour_test
+package fortune_test
 
 import (
 	"testing"

@@ -1,4 +1,4 @@
-package honour
+package fortune
 
 import "fmt"
 
